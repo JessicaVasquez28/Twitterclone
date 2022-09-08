@@ -1,3 +1,3 @@
 # TwitterClone
 
-[Live Demo](https://twitter-clone-django-python.herokuapp.com/)
+[Live Demo](https://twitter-clone-jessica.herokuapp.com/)
